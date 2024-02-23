@@ -1,0 +1,166 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders SignInScreen correctly 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#B0D9B1",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "marginBottom": 30,
+      }
+    }
+  >
+    <Image
+      source={
+        {
+          "testUri": "../../../src/theme/images/logo.png",
+        }
+      }
+      style={
+        {
+          "height": 100,
+          "marginBottom": 10,
+          "width": 100,
+        }
+      }
+    />
+    <Text
+      style={
+        {
+          "color": "#40513B",
+          "fontSize": 40,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      EcoTrace
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "width": "90%",
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "alignItems": "center",
+          "backgroundColor": "white",
+          "borderRadius": 4,
+          "height": 48,
+          "justifyContent": "center",
+          "marginBottom": 10,
+          "opacity": 1,
+          "width": 358,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#40513B",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "textAlign": "center",
+          }
+        }
+      >
+        SIGN IN
+      </Text>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "alignItems": "center",
+          "borderColor": "#E5E7EB",
+          "borderRadius": 4,
+          "borderWidth": 1,
+          "height": 48,
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 358,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#40513B",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "textAlign": "center",
+          }
+        }
+      >
+        SIGN UP
+      </Text>
+    </View>
+  </View>
+</View>
+`;

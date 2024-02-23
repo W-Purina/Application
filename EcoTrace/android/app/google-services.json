@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29346998579",
+    "firebase_url": "https://ecotrace-77266-default-rtdb.firebaseio.com",
+    "project_id": "ecotrace-77266",
+    "storage_bucket": "ecotrace-77266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29346998579:android:49fa2f8f487dd617367646",
+        "android_client_info": {
+          "package_name": "com.bbb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29346998579-41tdslmc4h2mc6o0jlrio3cjf5de5ffi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgUjfeNnRjpjQKDJFctVi3EugEiNjb-3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29346998579-41tdslmc4h2mc6o0jlrio3cjf5de5ffi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
